@@ -1,0 +1,6 @@
+Order of operations 
+
+
+1. Prepare the training data by running "prepare_training_data.py"
+
+2. Run main.py
